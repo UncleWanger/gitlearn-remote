@@ -6,4 +6,5 @@ Creating a new branch is quick.
 Creating a new branch is quick & simple.
 no-ff
 not complate aaaaaaaaaaaaaaaa
-dev onlydddd
+dev only
+remote edit
